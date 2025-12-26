@@ -34,7 +34,7 @@ lista de tarefas
 - [x] colocar comida do cachorro 
 
 ---
-#Texte de titulo
-##titulo de nivel 2
-###_Imagem_
+# Texto de titulo
+## titulo de nivel 2
+### _Imagem_
 ![octorobo](https://github.com/user-attachments/assets/5c65fb39-0de4-46ff-9760-1e1538fd48fa)
