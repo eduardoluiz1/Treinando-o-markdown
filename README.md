@@ -61,4 +61,8 @@ num a = 1
 num b = 2
 num c = a+b
 ```
+---
+usando emoji
+🤖 é so colocar dois pontos e digitar o nome do emoti
+🦈
 
