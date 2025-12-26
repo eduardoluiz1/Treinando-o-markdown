@@ -37,7 +37,9 @@ lista de tarefas
 # Texto de titulo
 ## titulo de nivel 2
 ### _Imagem_
-![octorobo](https://github.com/user-attachments/assets/5c65fb39-0de4-46ff-9760-1e1538fd48fa)
+
+![octorobo](https://github.com/user-attachments/assets/4b49b3e0-4b49-46f2-9176-304f6fc255ad)
+
 
 link para algo[
 [clique para ir para o google](https://www.google.com/)
@@ -47,3 +49,8 @@ Tabelas
 Id | nome | idade
 ---|---|---|
 01|Eduardo|40
+02|Meg|2
+03|Dulce|50
+04|Maria|20
+05|Joao|32
+
