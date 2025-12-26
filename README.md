@@ -1,2 +1,26 @@
 # Treinando-o-markdown
 Repositorio para testar os comandos do markdown
+
+**texto em negrito**
+
+*texto em italico*
+
+_**texto em negrito e italico**_
+
+---
+lista numerica
+1. item 1
+2. item 2
+3. item 3
+   1. item 3.1
+   2. item 3.2
+
+---
+lista não ordenada
+* item 1
+* item 2
+* item 3
+   * item 4
+   * item 5
+ 
+---
