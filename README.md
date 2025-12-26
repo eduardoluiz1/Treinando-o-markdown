@@ -24,3 +24,10 @@ lista não ordenada
    * item 5
  
 ---
+
+lista de tarefas
+
+- [ ] estudar git
+- [ ] estudar markdown
+- [ ] estudar python
+- [x] colocar comida do cachorro 
