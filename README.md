@@ -41,3 +41,9 @@ lista de tarefas
 
 link para algo[
 [clique para ir para o google](https://www.google.com/)
+
+---
+Tabelas
+Id | nome | idade
+---|---|---|
+01|Eduardo|40
