@@ -53,4 +53,12 @@ Id | nome | idade
 03|Dulce|50
 04|Maria|20
 05|Joao|32
+---
+# Para colocar codigos aqui em formato ja pronto para replicar se usa a crase
+```
+codigo python
+num a = 1
+num b = 2
+num c = a+b
+```
 
